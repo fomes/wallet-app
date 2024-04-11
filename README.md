@@ -6,7 +6,7 @@ Esta é uma aplicação React que consiste em um CRUD que simula uma carteira pa
 *Projeto em conclusão...
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/fomes/wallet-app/master/public/preview.png)
+![App Screenshot](https://github.com/fomes/wallet-app/blob/master/public/preview.png)
 
 
 ## Stack utilizada
